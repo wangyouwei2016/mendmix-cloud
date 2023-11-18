@@ -10,7 +10,7 @@
 	<artifactId>mendmix-common2</artifactId>
 
 	<properties>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 	</properties>
 
 	<dependencies>
